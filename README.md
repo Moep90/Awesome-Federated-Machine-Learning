@@ -5164,7 +5164,7 @@ Developing a federated learning framework from scratch is very time-consuming, e
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/adap/flower">Flower</a></td>
     	<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://arxiv.org/pdf/2104.03042.pdf">Flower: A Friendly Federated Learning Research Framework</a></td>
-		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.dev/">flower.dev</a></td>
+		<td class=xl6619452 width=815 style='width:611pt' align="center"><a href="https://flower.ai/">flower.ai</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
     	<td rowspan=1 height=19 class=xl6519452 style='height:85.5pt' align="center"><a href="https://github.com/microsoft/msrflute">FLUTE</a></td>
